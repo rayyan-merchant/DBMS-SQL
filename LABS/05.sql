@@ -1,7 +1,3 @@
--- ===============================
--- TABLE CREATION & DATA INSERTION
--- ===============================
-
 -- ===== Department =====
 CREATE TABLE department (
     dpt_id INT PRIMARY KEY,
